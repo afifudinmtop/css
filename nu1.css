@@ -1,0 +1,90 @@
+body {
+    background: linear-gradient(-135deg, #57c850, #4158d0);
+}
+
+.entry-title {
+    font-family: Poppins-Bold;
+    color: #fff;
+    line-height: 1.2;
+    text-align: center;
+    width: 100%;
+    display: block;
+    padding-bottom: 54px;
+}
+
+.entry-content {
+    width: 960px;
+    background: #fff;
+    border-radius: 10px;
+    overflow: hidden;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 30px;
+}
+
+.wpforms-34-field_18 {
+  font-family: Poppins-Bold;
+  font-size: 24px;
+  color: #333333;
+  line-height: 1.2;
+  text-align: center;
+  width: 100%;
+  display: block;
+  padding-bottom: 54px;
+}
+
+.wpforms-field-label{
+  font-family: Poppins-Medium;
+  font-size: 15px;
+  line-height: 1.5;
+  color: #666666;
+  display: block;
+  width: 100%;
+  background: #e6e6e6;
+  height: 50px;
+  border-radius: 25px;
+  padding: 0 30px 0 68px;
+}
+
+body #wpforms-34 .wpforms-form .wpforms-field input[type=text], body #wpforms-34 .wpforms-form .wpforms-field input[type=email], body #wpforms-34 .wpforms-form .wpforms-field input[type=tel], body #wpforms-34 .wpforms-form .wpforms-field input[type=url], body #wpforms-34 .wpforms-form .wpforms-field input[type=password], body #wpforms-34 .wpforms-form .wpforms-field input[type=number] {
+  font-family: Poppins-Medium;
+  font-size: 15px;
+  line-height: 1.5;
+  color: #666666;
+  display: block;
+  width: 100%;
+  background: #e6e6e6;
+  height: 50px;
+  border-radius: 25px;
+  padding: 0 10px 0 10px;
+}
+
+body #wpforms-34 .wpforms-submit-container .wpforms-submit, body #wpforms-34 .wpforms-field-pagebreak button.wpforms-page-button {
+    font-family: Montserrat-Bold;
+    font-size: 15px;
+    line-height: 1.5;
+    color: #fff;
+    text-transform: uppercase;
+    width: 30%;
+    height: 50px;
+    margin: 10px;
+    border-radius: 25px;
+    background: #57b846;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0 25px;
+    -webkit-transition: all 0.4s;
+    -o-transition: all 0.4s;
+    -moz-transition: all 0.4s;
+    transition: all 0.4s;
+}
